@@ -20,6 +20,7 @@ class Employee
 	end
 end
 
+#This is a random comment by Heather
 def main_menu
 	puts "\n"
 	puts "Welcome to the Employee Database! Please select an appropriate option."
